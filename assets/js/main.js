@@ -76,6 +76,6 @@
 Email: ${f.get('email')}
 Mensagem:
 ${f.get('mensagem')}`);
-    window.location.href = `mailto:seu.email@exemplo.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:albertlemebrito@gmail.com?subject=${subject}&body=${body}`;
   });
 })();
