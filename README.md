@@ -1,24 +1,48 @@
-# Portfólio — GitHub Pages
+# Portfólio — Albert Leme
 
-Este repositório contém um site estático (HTML/CSS/JS) pronto para publicar no GitHub Pages.
+Bem-vindo ao meu portfólio! Aqui você encontra meus projetos, experiência e habilidades em **Power Platform**, **.NET** e desenvolvimento de soluções para automação e integração de sistemas.
 
-## Como publicar
+---
 
-1. Faça um fork ou baixe os arquivos.
-2. Suba tudo para um repositório público no seu GitHub (por exemplo, `portfolio`).
-3. Vá em **Settings › Pages** e selecione:
-   - **Source**: `Deploy from a branch`
-   - **Branch**: `main` (ou `master`) e pasta `/root`.
-4. Salve. A URL será algo como: `https://SEU_USUARIO.github.io/portfolio/`.
+## 💻 Sobre mim
 
-## Personalização rápida
+Sou formado em **Análise e Desenvolvimento de Sistemas** pela FATEC Sorocaba e tenho mais de quatro anos de experiência com **Microsoft Power Platform**, incluindo **Power Apps**, **Power Automate** e **Power BI**. Atualmente, também estudo e desenvolvo em **C# / .NET**, buscando soluções full-code e integração com **Azure**, **APIs** e sistemas corporativos.
 
-- Edite `index.html` (nome, links, descrição).
-- Troque `assets/img/cover.png` e `assets/img/favicon.svg`.
-- Liste seus projetos em `assets/js/projects.json`.
-- Substitua `assets/cv/AlbertLeme-CV.pdf` pelo seu CV.
-- Atualize o email no `mailto:` dentro de `assets/js/main.js`.
+---
 
-> Observação: GitHub Pages não executa **ASP.NET server-side**. Este projeto é estático. Se quiser usar tecnologia .NET no front, uma alternativa é **Blazor WebAssembly** (que roda no navegador).
+## 🛠 Habilidades e Tecnologias
 
-Bom deploy! 🚀
+- **Power Platform:** Power Apps, Power Automate, Power BI  
+- **Desenvolvimento:** C#, ASP.NET Core, APIs REST, Swagger  
+- **Banco de dados:** SQL Server, MySQL  
+- **Cloud & DevOps:** Azure, GitHub Actions, CI/CD  
+- **Ferramentas e práticas:** SharePoint, Dataverse, Integrações corporativas, Automação de processos
+
+---
+
+## 🚀 Projetos
+
+Alguns projetos destacados:
+
+- **Relatório de Troca de Turno (Power Apps)**: Aplicativo para registro e acompanhamento de turnos, integrado a SharePoint e Power Automate.  
+- **Catálogo de Cachorros (ASP.NET + API)**: Projeto de catálogo com busca e favoritos, versão WinForms e web.  
+- **Gestão de TPM Multiplantas**: Plataforma integrada para monitoramento de manutenção e indicadores em diversas plantas de uma multinacional.  
+- **Plataforma de Contratos e Ordens de Serviço**: Gestão de processos com automações, exportação para ERP e integração com sistemas do cliente.
+
+Todos os projetos estão detalhados no [portfólio online](https://seu-usuario.github.io/portfolio/) (substitua pelo link real).
+
+---
+
+## 📂 Estrutura do repositório
+
+```text
+portfolio/
+│
+├─ index.html         # Página principal
+├─ assets/
+│   ├─ css/style.css  # Estilos
+│   ├─ js/main.js     # Scripts
+│   ├─ js/projects.json # Lista de projetos
+│   ├─ img/           # Imagens e favicon
+│   └─ cv/AlbertLeme-CV.pdf # CV
+└─ README.md          # Este arquivo
