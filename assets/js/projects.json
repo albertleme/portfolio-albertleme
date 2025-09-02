@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Relatório de Troca de Turnos",
+    "description": "Registro e acompanhamento de relatórios de troca de turno, garantindo rastreabilidade e continuidade operacional. Integrado a SharePoint e Power Automate para armazenamento centralizado, notificações e relatórios gerenciais.",
+    "tags": [
+      "PowerApps",
+      "Power Automate",
+      "API REST"
+    ],
+    "demo": "#",
+    "repo": "#"
+  },
+  {
+    "title": "Total Productive Maintenance",
+    "description": "Gestão integrada de TPM em múltiplas plantas de empresa multinacional, com automações e dashboards para monitoramento de manutenção, KPIs e conformidades, garantindo padronização e eficiência operacional global.",
+    "tags": [
+      "PowerApps",
+      "Power Automate",
+      "Sharepoint"
+    ],
+    "demo": "#",
+    "repo": "#"
+  },
+  {
+    "title": "Gestão de Contratações",
+    "description": "Plataforma para gestão de contratos, ordens de serviço e conformidades gerenciais, com aplicativo e automações que simplificam processos e permitem exportação de dados para ERP e outras plataformas integradas do cliente.",
+    "tags": [
+      "PowerApps",
+      "Power Automate",
+      "Dataverse"
+    ],
+    "demo": "#",
+    "repo": "#"
+  }
+]
